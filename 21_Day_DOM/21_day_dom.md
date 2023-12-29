@@ -148,7 +148,7 @@ for (let i = 0; i < allTitles.length; i++) {
   console.log(allTitles[i])
 }
 
-allTitles.forEach(title => console.log(title))
+allTitles.forEach(title => console.log(allTitles))
 const allTitles = document.querySelectorAll('.title') // the same goes for selecting using class
 ```
 
